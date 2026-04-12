@@ -14,10 +14,10 @@
 |------|----------|----------|
 | 04:00–04:30 | Ritual | Stretching + cold shower + prayer + Bible |
 | 04:30–05:00 | Warm-up | Read this full plan, take notes |
-| 05:00–05:30 | **English** | AutomaticaMente: lessons 01-02 |
+| 05:00–05:30 | **English** |  lessons 01-02 |
 | 05:30–07:00 | **Technical Setup** | Install Git + VS Code + Python + create `projects/` folder |
 | 07:00–19:00 | **Weekly Planning** | Copy plan to Notion/notebook |
-| 19:00 | Sleep | — |
+| 21:00 | Sleep | — |
 
 > ✅ **Sunday success criteria:** Git installed, VS Code open, GitHub account created, folder `projects/week-01/` exists.
 
