@@ -1,7 +1,6 @@
 # 🎯 My 15-Year Roadmap (2026-2041)
 
 **Data Analyst → ML Engineer → Head of Data**  
-*Learning in public from Brazil* 🇧🇷
 
 ---
 
