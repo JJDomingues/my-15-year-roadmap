@@ -1,6 +1,6 @@
 # 🎯 My 15-Year Roadmap (2026-2041)
 
-**Data Analyst → ML Engineer → Head of Data**  
+**Data Analyst → ML Engineer → Head of Data**
 
 ---
 
@@ -15,8 +15,8 @@
 - Basic Statistics
 
 ### Week-by-Week Progress
-- [✅ Week 1](./WEEK-01.md) — Apr 13-17, 2026
-- [ ] Week 2 — Apr 20-24, 2026
+- [✅ Week 1](./WEEK-01.md) — Apr 13-17, 2026 — **File Organizer v1.0 delivered**
+- [ ] Week 2 — Apr 20-24, 2026 — SQL + sqlite3 + Pandas
 - [ ] Week 3 — Apr 27-May 1, 2026
 
 ---
@@ -45,12 +45,20 @@
 
 ## 📊 Current Progress
 
-**Last update:** April 12, 2026
+**Last update:** April 17, 2026
 
 - ✅ GitHub account created
-- ✅ Week 1 planned
-- ⚪ Python/Git environment (Sunday Apr 12)
-- ⚪ First commit (Monday Apr 13)
+- ✅ Week 1 planned and delivered
+- ✅ Python/Git environment configured
+- ✅ First commit — Monday Apr 13
+- ✅ class FileOrganizer created with 3 methods
+- ✅ try/except error handling implemented
+- ✅ File Organizer v1.0 published with tag
+- ✅ README, LICENSE, requirements.txt added
+- ✅ Cursor AI installed and used for refactoring
+- ✅ First LinkedIn post published
+- ✅ 10+ commits following Conventional Commits standard
+- ⏳ Week 2 starts Apr 20 — SQL + Pandas
 
 ---
 
