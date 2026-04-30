@@ -15,9 +15,10 @@
 - Basic Statistics
 
 ### Week-by-Week Progress
-- [✅ Week 1](./WEEK-01.md) — Apr 13-17, 2026 — **File Organizer v1.0 delivered**
-- [ ] Week 2 — Apr 20-24, 2026 — SQL + sqlite3 + Pandas
-- [ ] Week 3 — Apr 27-May 1, 2026
+- ✅ Week 1 — Apr 13-17, 2026 — **File Organizer v1.0 delivered**
+- ✅ Week 2 — Apr 20-24, 2026 — **SQL + Python + Pandas delivered**
+- ✅ Week 3 — Apr 27-Mai 1, 2026 — **Matplotlib + JOIN + Dashboard delivered**
+- ⬜ Week 4 — Mai 4-8, 2026 — Estatística + Dataset Real (EDA)
 
 ---
 
